@@ -1,12 +1,12 @@
 # DSA-BST
 
 ### 1: Draw a BST
-[Duplicates ignored](./imgs/1_DrawBST1.jpg)
-[Duplicates added](./imgs/1_DrawBST2.jpg)
+- [Duplicates stacked](./imgs/1_DrawBST1.jpg)
+- [Duplicates added](./imgs/1_DrawBST2.jpg)
 
 ### 2: Remove the Root
-[Duplicates ignored](./imgs/2_RemoveRoot1.jpg)
-[Duplicates added](./imgs/2_RemoveRoot2.jpg)
+- [Duplicates stacked](./imgs/2_RemoveRoot1.jpg)
+- [Duplicates added](./imgs/2_RemoveRoot2.jpg)
 
 ### 3: Create a BST Class
 [LINK](./BinarySearchTree.js#L136)
